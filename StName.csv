@@ -1,0 +1,9 @@
+[Information]
+CSD-R7
+V6.71
+[StName]
+STEREO,NAME,COLOR,ICON,
+_AL,Master L,Orange,Blank,
+_AR,Master R,Orange,Blank,
+_BL,Stream L,Orange,Blank,
+_BR,Stream R,Orange,Blank,
