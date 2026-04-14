@@ -1,0 +1,800 @@
+17883|2024/07/31|10:44:50|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+17884|2024/07/31|10:44:51|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+17885|2024/07/31|10:44:53|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+17886|2024/07/31|10:44:53|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+17887|2024/07/31|10:44:53|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17888|2024/07/31|10:44:58|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+17889|2024/07/31|10:44:58|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+17890|2024/07/31|10:44:58|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17891|2024/07/31|10:45:08|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/07/31 10:45:12 to 2024/07/31 10:45:08.                 
+17892|2024/07/31|17:43:03|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+17893|2024/07/31|17:43:04|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+17894|2024/07/31|17:43:04|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+17895|2024/07/31|17:43:04|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+17896|2024/07/31|17:43:05|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+17897|2024/07/31|17:43:09|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+17898|2024/07/31|17:43:09|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+17899|2024/07/31|17:43:10|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+17900|2024/07/31|17:43:12|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+17901|2024/07/31|17:43:12|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+17902|2024/07/31|17:43:12|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17903|2024/07/31|17:43:17|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+17904|2024/07/31|17:43:17|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+17905|2024/07/31|17:43:17|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17906|2024/07/31|17:43:21|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/07/31 17:43:23 to 2024/07/31 17:43:21.                 
+17907|2024/07/31|17:49:58|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/07/31 17:49:58 to 2024/07/31 17:49:58.                 
+17908|2024/07/31|17:54:36|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/07/31 17:54:35 to 2024/07/31 17:54:36.                 
+17909|2024/08/01|10:36:08|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+17910|2024/08/01|10:36:10|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+17911|2024/08/01|10:36:10|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+17912|2024/08/01|10:36:10|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+17913|2024/08/01|10:36:11|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+17914|2024/08/01|10:36:15|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+17915|2024/08/01|10:36:15|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+17916|2024/08/01|10:36:16|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+17917|2024/08/01|10:36:16|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+17918|2024/08/01|10:36:16|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+17919|2024/08/01|10:36:16|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17920|2024/08/01|10:36:24|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+17921|2024/08/01|10:36:24|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+17922|2024/08/01|10:36:24|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17923|2024/08/01|10:36:26|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/01 10:36:30 to 2024/08/01 10:36:26.                 
+17924|2024/08/01|10:37:16|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/01 10:37:16 to 2024/08/01 10:37:16.                 
+17925|2024/08/01|21:04:03|CSD(DSP)|1A |WARNING |WordClock UnLock                                                              
+17926|2024/08/02|08:48:52|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+17927|2024/08/02|08:48:53|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+17928|2024/08/02|08:48:53|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+17929|2024/08/02|08:48:53|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+17930|2024/08/02|08:48:54|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+17931|2024/08/02|08:48:58|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+17932|2024/08/02|08:48:59|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+17933|2024/08/02|08:49:00|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+17934|2024/08/02|08:49:01|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+17935|2024/08/02|08:49:01|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+17936|2024/08/02|08:49:01|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17937|2024/08/02|08:49:07|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+17938|2024/08/02|08:49:07|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+17939|2024/08/02|08:49:07|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17940|2024/08/02|08:49:15|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 08:49:20 to 2024/08/02 08:49:15.                 
+17941|2024/08/02|09:00:45|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+17942|2024/08/02|09:00:47|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+17943|2024/08/02|09:00:47|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+17944|2024/08/02|09:00:47|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+17945|2024/08/02|09:00:48|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+17946|2024/08/02|09:00:51|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+17947|2024/08/02|09:00:52|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+17948|2024/08/02|09:00:52|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+17949|2024/08/02|09:00:54|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+17950|2024/08/02|09:00:54|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+17951|2024/08/02|09:00:54|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17952|2024/08/02|09:01:01|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+17953|2024/08/02|09:01:01|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+17954|2024/08/02|09:01:01|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17955|2024/08/02|09:01:07|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 09:01:05 to 2024/08/02 09:01:07.                 
+17956|2024/08/02|09:01:55|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 09:01:55 to 2024/08/02 09:01:55.                 
+17957|2024/08/02|09:05:37|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 09:05:37 to 2024/08/02 09:05:37.                 
+17958|2024/08/02|09:07:56|CSD(I/O)|L1 |CAUTION |Power State : A-[Off]                                                         
+17959|2024/08/02|09:07:59|CSD(DSP)|1A |CAUTION |Power State : A-[Off], B-[On]                                                 
+17960|2024/08/02|09:08:56|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+17961|2024/08/02|09:08:58|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+17962|2024/08/02|09:08:58|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+17963|2024/08/02|09:08:58|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+17964|2024/08/02|09:08:59|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+17965|2024/08/02|09:09:02|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+17966|2024/08/02|09:09:03|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+17967|2024/08/02|09:09:03|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+17968|2024/08/02|09:09:05|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+17969|2024/08/02|09:09:05|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+17970|2024/08/02|09:09:05|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17971|2024/08/02|09:09:11|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+17972|2024/08/02|09:09:11|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+17973|2024/08/02|09:09:11|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17974|2024/08/02|09:09:17|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 09:09:16 to 2024/08/02 09:09:17.                 
+17975|2024/08/02|11:16:31|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 11:16:30 to 2024/08/02 11:16:31.                 
+17976|2024/08/02|21:15:43|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 21:15:42 to 2024/08/02 21:15:43.                 
+17977|2024/08/02|21:15:58|CSD(DSP)|1A |WARNING |WordClock UnLock                                                              
+17978|2024/08/02|21:44:23|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+17979|2024/08/02|21:44:24|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+17980|2024/08/02|21:44:24|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+17981|2024/08/02|21:44:24|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+17982|2024/08/02|21:44:25|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+17983|2024/08/02|21:44:29|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+17984|2024/08/02|21:44:30|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+17985|2024/08/02|21:44:30|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+17986|2024/08/02|21:44:31|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+17987|2024/08/02|21:44:31|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+17988|2024/08/02|21:44:31|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17989|2024/08/02|21:44:37|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+17990|2024/08/02|21:44:37|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+17991|2024/08/02|21:44:37|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+17992|2024/08/02|21:44:52|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 21:44:51 to 2024/08/02 21:44:52.                 
+17993|2024/08/02|21:46:49|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 21:46:49 to 2024/08/02 21:46:49.                 
+17994|2024/08/02|22:02:39|CSD(DSP)|1A |WARNING |Cooling Fan State : [Error]                                                   
+17995|2024/08/02|22:03:33|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+17996|2024/08/02|22:03:34|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+17997|2024/08/02|22:03:34|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+17998|2024/08/02|22:03:34|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+17999|2024/08/02|22:03:35|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18000|2024/08/02|22:03:39|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18001|2024/08/02|22:03:40|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18002|2024/08/02|22:03:40|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18003|2024/08/02|22:03:41|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18004|2024/08/02|22:03:41|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18005|2024/08/02|22:03:41|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18006|2024/08/02|22:03:48|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18007|2024/08/02|22:03:48|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18008|2024/08/02|22:03:48|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18009|2024/08/02|22:03:59|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 22:03:59 to 2024/08/02 22:03:59.                 
+18010|2024/08/02|22:35:38|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/02 22:35:38 to 2024/08/02 22:35:38.                 
+18011|2024/08/03|13:45:17|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+18012|2024/08/03|13:45:19|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18013|2024/08/03|13:45:19|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18014|2024/08/03|13:45:19|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18015|2024/08/03|13:45:20|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18016|2024/08/03|13:45:24|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18017|2024/08/03|13:45:24|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18018|2024/08/03|13:45:25|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18019|2024/08/03|13:45:26|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18020|2024/08/03|13:45:26|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18021|2024/08/03|13:45:26|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18022|2024/08/03|13:45:31|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18023|2024/08/03|13:45:31|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18024|2024/08/03|13:45:32|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18025|2024/08/03|13:45:34|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/03 13:45:37 to 2024/08/03 13:45:34.                 
+18026|2024/08/03|14:10:21|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/03 14:10:20 to 2024/08/03 14:10:21.                 
+18027|2024/08/03|20:36:00|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/03 20:35:59 to 2024/08/03 20:36:00.                 
+18028|2024/08/04|07:26:19|CSD(DSP)|1A |WARNING |WordClock UnLock                                                              
+18029|2024/08/04|07:26:19|CSD(DSP)|1A |CAUTION |Power State : A-[Off], B-[On]                                                 
+18030|2024/08/04|07:27:16|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+18031|2024/08/04|07:27:18|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18032|2024/08/04|07:27:18|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18033|2024/08/04|07:27:18|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18034|2024/08/04|07:27:19|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18035|2024/08/04|07:27:22|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18036|2024/08/04|07:27:23|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18037|2024/08/04|07:27:23|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18038|2024/08/04|07:27:25|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18039|2024/08/04|07:27:25|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18040|2024/08/04|07:27:25|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18041|2024/08/04|07:27:31|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18042|2024/08/04|07:27:31|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18043|2024/08/04|07:27:31|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18044|2024/08/04|07:27:37|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/04 07:27:38 to 2024/08/04 07:27:37.                 
+18045|2024/08/04|07:47:52|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/04 07:47:51 to 2024/08/04 07:47:52.                 
+18046|2024/08/05|15:19:39|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+18047|2024/08/05|15:19:40|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18048|2024/08/05|15:19:40|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18049|2024/08/05|15:19:40|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18050|2024/08/05|15:19:41|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18051|2024/08/05|15:19:45|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18052|2024/08/05|15:19:46|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18053|2024/08/05|15:19:47|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18054|2024/08/05|15:19:47|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18055|2024/08/05|15:19:47|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18056|2024/08/05|15:19:47|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18057|2024/08/05|15:19:53|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18058|2024/08/05|15:19:53|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18059|2024/08/05|15:19:53|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18060|2024/08/05|15:19:58|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/05 15:20:06 to 2024/08/05 15:19:58.                 
+18061|2024/08/05|15:24:04|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/05 15:24:03 to 2024/08/05 15:24:04.                 
+18062|2024/08/05|15:37:56|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/05 15:37:54 to 2024/08/05 15:37:56.                 
+18063|2024/08/05|15:40:24|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+18064|2024/08/05|15:40:26|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18065|2024/08/05|15:40:26|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18066|2024/08/05|15:40:26|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18067|2024/08/05|15:40:27|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18068|2024/08/05|15:40:30|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18069|2024/08/05|15:40:31|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18070|2024/08/05|15:40:31|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18071|2024/08/05|15:40:33|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18072|2024/08/05|15:40:33|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18073|2024/08/05|15:40:33|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18074|2024/08/05|15:40:39|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18075|2024/08/05|15:40:39|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18076|2024/08/05|15:40:39|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18077|2024/08/05|15:40:43|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/05 15:40:44 to 2024/08/05 15:40:43.                 
+18078|2024/08/05|16:03:28|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/05 16:03:27 to 2024/08/05 16:03:28.                 
+18079|2024/08/05|16:21:48|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/05 16:21:48 to 2024/08/05 16:21:48.                 
+18080|2024/08/06|08:49:09|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.11 Program Start  (Unit Mode: Default)                              
+18081|2024/08/06|08:49:10|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18082|2024/08/06|08:49:10|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18083|2024/08/06|08:49:10|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18084|2024/08/06|08:49:11|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18085|2024/08/06|08:49:15|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18086|2024/08/06|08:49:15|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18087|2024/08/06|08:49:16|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18088|2024/08/06|08:49:18|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18089|2024/08/06|08:49:18|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18090|2024/08/06|08:49:18|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18091|2024/08/06|08:49:24|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18092|2024/08/06|08:49:24|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18093|2024/08/06|08:49:24|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18094|2024/08/06|08:49:25|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/06 08:49:29 to 2024/08/06 08:49:25.                 
+18095|2024/08/06|11:32:23|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/06 11:32:23 to 2024/08/06 11:32:23.                 
+18096|2024/08/06|11:42:23|RPio    |M1 |CAUTION |Power State : A-[Off]                                                         
+18097|2024/08/06|11:42:57|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18098|2024/08/06|11:42:57|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18099|2024/08/06|11:42:57|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18100|2024/08/06|11:44:18|CSD(I/O)|L1 |CAUTION |Power State : B-[Off]                                                         
+18101|2024/08/06|11:45:23|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18102|2024/08/06|11:45:26|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18103|2024/08/06|11:45:26|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18104|2024/08/06|11:45:26|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18105|2024/08/06|11:45:27|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18106|2024/08/06|11:45:31|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18107|2024/08/06|11:45:31|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18108|2024/08/06|11:45:32|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18109|2024/08/06|11:45:32|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18110|2024/08/06|11:45:32|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18111|2024/08/06|11:45:32|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18112|2024/08/06|11:45:40|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18113|2024/08/06|11:45:40|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18114|2024/08/06|11:45:40|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18115|2024/08/06|11:45:47|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/06 11:45:46 to 2024/08/06 11:45:47.                 
+18116|2024/08/06|17:35:04|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/06 17:35:02 to 2024/08/06 17:35:04.                 
+03373|2024/08/06|19:09:05|CSD(CS) |1  |SYSINFO |EFFECT parameters initialized                                                 
+03374|2024/08/06|20:04:50|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03375|2024/08/06|20:05:08|CSD(CS) |1  |SYSINFO |Started saving file [X 081024 SAT.RIVAGEPM]                                   
+03376|2024/08/06|20:05:13|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03377|2024/08/06|22:18:45|CSD(CS) |1  |CAUTION |Unassigned encoder                                                            
+03378|2024/08/06|22:18:46|CSD(CS) |1  |CAUTION |Same event occurred 2 times                                                   
+03379|2024/08/06|22:36:58|CSD(CS) |1  |SYSINFO |DYNAMICS parameters copied                                                    
+03380|2024/08/06|22:37:01|CSD(CS) |1  |SYSINFO |DYNAMICS parameters pasted                                                    
+03381|2024/08/06|22:37:23|CSD(CS) |1  |CAUTION |Unassigned encoder                                                            
+03382|2024/08/06|22:37:24|CSD(CS) |1  |CAUTION |Same event occurred 4 times                                                   
+03383|2024/08/06|23:00:21|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03384|2024/08/06|23:00:27|CSD(CS) |1  |SYSINFO |Started saving file [X 081024 SAT.RIVAGEPM]                                   
+03385|2024/08/06|23:00:32|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03386|2024/08/06|23:01:01|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program End                                                      
+03387|2024/08/07|10:05:08|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03388|2024/08/07|10:05:22|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03389|2024/08/07|10:05:22|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03390|2024/08/07|10:05:22|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18117|2024/08/07|10:05:25|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18118|2024/08/07|10:05:26|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18119|2024/08/07|10:05:26|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18120|2024/08/07|10:05:26|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18121|2024/08/07|10:05:27|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18122|2024/08/07|10:05:31|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18123|2024/08/07|10:05:32|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18124|2024/08/07|10:05:32|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18125|2024/08/07|10:05:33|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18126|2024/08/07|10:05:33|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18127|2024/08/07|10:05:33|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03391|2024/08/07|10:05:38|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03392|2024/08/07|10:05:38|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+03393|2024/08/07|10:05:41|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03394|2024/08/07|10:05:41|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18128|2024/08/07|10:05:40|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18129|2024/08/07|10:05:40|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18130|2024/08/07|10:05:40|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03395|2024/08/07|10:05:44|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03396|2024/08/07|10:05:50|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18131|2024/08/07|10:05:50|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/07 10:05:54 to 2024/08/07 10:05:50.                 
+03397|2024/08/07|10:05:59|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03398|2024/08/07|10:06:03|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03399|2024/08/07|10:06:03|CSD(CS) |1  |SYSINFO |Synchronization from RPio M1 has started                                      
+03400|2024/08/07|10:06:05|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03401|2024/08/07|10:10:34|CSD(CS) |1  |SYSINFO |Started loading file [ROGERS DFLT 0724.RIVAGEPM]                              
+03402|2024/08/07|10:10:52|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03403|2024/08/07|10:10:54|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03404|2024/08/07|10:10:54|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03405|2024/08/07|10:10:58|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03406|2024/08/07|10:10:58|CSD(CS) |1  |SYSINFO |Synchronization by File Load to RPio M1 has started                           
+03407|2024/08/07|10:10:58|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03408|2024/08/07|10:10:58|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03409|2024/08/07|10:10:58|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18132|2024/08/07|10:10:58|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/07 10:10:57 to 2024/08/07 10:10:58.                 
+03410|2024/08/07|10:11:00|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03411|2024/08/07|10:11:00|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03412|2024/08/07|16:32:05|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18133|2024/08/07|16:32:17|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03413|2024/08/07|16:32:18|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03414|2024/08/07|16:32:18|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03415|2024/08/07|16:32:18|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18134|2024/08/07|16:32:18|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18135|2024/08/07|16:32:18|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18136|2024/08/07|16:32:18|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18137|2024/08/07|16:32:19|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18138|2024/08/07|16:32:24|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18139|2024/08/07|16:32:24|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18140|2024/08/07|16:32:25|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18141|2024/08/07|16:32:26|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18142|2024/08/07|16:32:26|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18143|2024/08/07|16:32:26|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18144|2024/08/07|16:32:31|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18145|2024/08/07|16:32:31|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18146|2024/08/07|16:32:31|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03416|2024/08/07|16:32:33|CSD(CS) |1  |SYSINFO |Automatic Synchronization from DSP 1 (or 1A) has started                      
+03417|2024/08/07|16:32:33|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03418|2024/08/07|16:32:38|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18147|2024/08/07|16:32:38|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/07 16:32:38 to 2024/08/07 16:32:38.                 
+03419|2024/08/07|16:32:41|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03420|2024/08/07|16:32:41|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03421|2024/08/07|16:32:43|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03422|2024/08/07|16:32:55|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03423|2024/08/07|16:33:24|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03424|2024/08/07|16:34:24|CSD(CS) |1  |CAUTION |Same event occurred 4 times                                                   
+03425|2024/08/07|16:34:30|CSD(CS) |1  |SYSINFO |Synchronization from RPio M1 has started                                      
+03426|2024/08/07|16:34:32|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03427|2024/08/07|16:47:04|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03428|2024/08/07|16:47:29|CSD(CS) |1  |SYSINFO |Started saving file [BS 081124 SUN.RIVAGEPM]                                  
+03429|2024/08/07|16:47:34|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03430|2024/08/07|17:33:25|CSD(CS) |1  |SYSINFO |Started saving file [BS 081124 SUN.RIVAGEPM]                                  
+03431|2024/08/07|17:33:30|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03432|2024/08/08|09:37:08|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03433|2024/08/08|09:37:21|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03434|2024/08/08|09:37:21|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03435|2024/08/08|09:37:21|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18148|2024/08/08|09:37:21|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18149|2024/08/08|09:37:22|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18150|2024/08/08|09:37:23|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18151|2024/08/08|09:37:23|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18152|2024/08/08|09:37:23|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18153|2024/08/08|09:37:27|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18154|2024/08/08|09:37:28|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18155|2024/08/08|09:37:29|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18156|2024/08/08|09:37:30|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18157|2024/08/08|09:37:30|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18158|2024/08/08|09:37:30|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03436|2024/08/08|09:37:34|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03437|2024/08/08|09:37:34|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+18159|2024/08/08|09:37:36|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18160|2024/08/08|09:37:36|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18161|2024/08/08|09:37:36|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03438|2024/08/08|09:37:46|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03439|2024/08/08|09:37:46|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03440|2024/08/08|09:37:46|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+03441|2024/08/08|09:37:46|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+18162|2024/08/08|09:37:46|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/08 09:37:50 to 2024/08/08 09:37:46.                 
+03442|2024/08/08|09:37:57|CSD(CS) |1  |SYSINFO |Automatic Synchronization from RPio M1 has started                            
+03443|2024/08/08|09:37:57|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03444|2024/08/08|09:37:59|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03445|2024/08/08|09:38:41|CSD(CS) |1  |SYSINFO |Started loading file [BS 080924 CR.RIVAGEPM]                                  
+03446|2024/08/08|09:38:58|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03447|2024/08/08|09:39:00|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03448|2024/08/08|09:39:00|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03449|2024/08/08|09:39:03|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03450|2024/08/08|09:39:03|CSD(CS) |1  |SYSINFO |Synchronization by File Load to RPio M1 has started                           
+03451|2024/08/08|09:39:03|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03452|2024/08/08|09:39:03|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03453|2024/08/08|09:39:03|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18163|2024/08/08|09:39:03|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/08 09:39:03 to 2024/08/08 09:39:03.                 
+03454|2024/08/08|09:39:06|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03455|2024/08/08|09:39:06|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03456|2024/08/08|09:52:47|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03457|2024/08/08|09:53:02|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03458|2024/08/08|09:53:02|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03459|2024/08/08|09:53:02|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+03460|2024/08/08|09:53:04|CSD(CS) |1  |SYSINFO |Automatic Synchronization from RPio M1 has started                            
+03461|2024/08/08|09:53:04|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03462|2024/08/08|09:53:05|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+03463|2024/08/08|09:53:06|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03464|2024/08/08|09:53:06|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03465|2024/08/08|09:53:06|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03466|2024/08/08|09:53:06|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03467|2024/08/08|09:53:06|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03468|2024/08/08|09:53:07|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18164|2024/08/08|09:53:07|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/08 09:53:06 to 2024/08/08 09:53:07.                 
+03469|2024/08/08|09:53:53|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03470|2024/08/08|09:54:24|CSD(CS) |1  |SYSINFO |Started saving file [BS 080924 CR.RIVAGEPM]                                   
+03471|2024/08/08|09:54:29|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03472|2024/08/08|14:35:15|CSD(CS) |1  |SYSINFO |Started loading file [BS 081124 SUN.RIVAGEPM]                                 
+03473|2024/08/08|14:35:33|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03474|2024/08/08|14:35:35|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03475|2024/08/08|14:35:35|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03476|2024/08/08|14:35:39|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03477|2024/08/08|14:35:39|CSD(CS) |1  |SYSINFO |Synchronization by File Load to RPio M1 has started                           
+03478|2024/08/08|14:35:39|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03479|2024/08/08|14:35:39|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03480|2024/08/08|14:35:39|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18165|2024/08/08|14:35:39|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/08 14:35:38 to 2024/08/08 14:35:39.                 
+03481|2024/08/08|14:35:41|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03482|2024/08/08|14:35:41|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03483|2024/08/08|15:53:59|CSD(CS) |1  |SYSINFO |Started saving file [BS 081124 SUN.RIVAGEPM]                                  
+03484|2024/08/08|15:54:05|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03485|2024/08/08|18:47:52|CSD(CS) |1  |SYSINFO |EQ parameters copied                                                          
+03486|2024/08/08|18:47:55|CSD(CS) |1  |SYSINFO |EQ parameters pasted                                                          
+03487|2024/08/08|18:48:05|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03488|2024/08/08|19:08:54|CSD(CS) |1  |SYSINFO |EQ parameters pasted                                                          
+03489|2024/08/08|19:56:48|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03490|2024/08/08|19:57:01|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program End                                                      
+03491|2024/08/09|10:55:35|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03492|2024/08/09|10:55:50|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03493|2024/08/09|10:55:50|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03494|2024/08/09|10:55:50|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18166|2024/08/09|10:55:52|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18167|2024/08/09|10:55:54|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18168|2024/08/09|10:55:54|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18169|2024/08/09|10:55:54|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18170|2024/08/09|10:55:55|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18171|2024/08/09|10:55:59|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18172|2024/08/09|10:55:59|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18173|2024/08/09|10:56:00|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18174|2024/08/09|10:56:02|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18175|2024/08/09|10:56:02|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18176|2024/08/09|10:56:02|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18177|2024/08/09|10:56:07|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18178|2024/08/09|10:56:07|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18179|2024/08/09|10:56:07|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03495|2024/08/09|10:56:11|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03496|2024/08/09|10:56:11|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03497|2024/08/09|10:56:11|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03498|2024/08/09|10:56:11|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+03499|2024/08/09|10:56:12|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03500|2024/08/09|10:56:17|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18180|2024/08/09|10:56:17|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/09 10:56:21 to 2024/08/09 10:56:17.                 
+03501|2024/08/09|10:56:26|CSD(CS) |1  |SYSINFO |Started loading file [BS 080924 CR.RIVAGEPM]                                  
+03502|2024/08/09|10:56:27|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03503|2024/08/09|10:56:39|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03504|2024/08/09|10:56:40|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03505|2024/08/09|10:56:40|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03506|2024/08/09|10:56:41|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03507|2024/08/09|10:56:44|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03508|2024/08/09|10:56:44|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03509|2024/08/09|10:56:44|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18181|2024/08/09|10:56:44|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/09 10:56:44 to 2024/08/09 10:56:44.                 
+03510|2024/08/09|10:56:46|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03511|2024/08/09|10:56:49|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03512|2024/08/09|11:33:12|CSD(CS) |1  |CAUTION |Same event occurred 110 times                                                 
+03513|2024/08/09|11:33:23|CSD(CS) |1  |SYSINFO |Synchronization to RPio M1 has started                                        
+03514|2024/08/09|11:33:25|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03515|2024/08/09|11:34:26|CSD(CS) |1  |SYSINFO |EQ parameters copied                                                          
+03516|2024/08/09|11:34:43|CSD(CS) |1  |SYSINFO |EQ parameters pasted                                                          
+03517|2024/08/09|11:47:56|CSD(CS) |1  |SYSINFO |EQ parameters copied                                                          
+03518|2024/08/09|11:47:59|CSD(CS) |1  |SYSINFO |EQ parameters pasted                                                          
+03519|2024/08/09|11:48:02|CSD(CS) |1  |SYSINFO |Same event occurred 3 times                                                   
+03520|2024/08/09|12:01:28|CSD(CS) |1  |CAUTION |Unassigned encoder                                                            
+03521|2024/08/09|12:04:56|CSD(CS) |1  |SYSINFO |EQ parameters pasted                                                          
+03522|2024/08/09|12:05:23|CSD(CS) |1  |SYSINFO |Same event occurred 2 times                                                   
+03523|2024/08/09|12:20:39|CSD(CS) |1  |CAUTION |Unassigned encoder                                                            
+03524|2024/08/09|12:20:42|CSD(CS) |1  |CAUTION |Same event occurred 3 times                                                   
+03525|2024/08/09|12:28:50|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03526|2024/08/09|12:50:43|CSD(CS) |1  |SYSINFO |Same event occurred 2 times                                                   
+03527|2024/08/09|18:07:04|CSD(CS) |1  |SYSINFO |EQ parameters copied                                                          
+03528|2024/08/09|18:07:05|CSD(CS) |1  |SYSINFO |Same event occurred 3 times                                                   
+03529|2024/08/09|18:07:09|CSD(CS) |1  |SYSINFO |EQ parameters pasted                                                          
+03530|2024/08/09|18:07:13|CSD(CS) |1  |SYSINFO |Same event occurred 2 times                                                   
+03531|2024/08/09|20:48:55|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03532|2024/08/09|20:56:46|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program End                                                      
+18182|2024/08/09|20:57:08|CSD(DSP)|1A |WARNING |WordClock UnLock                                                              
+03533|2024/08/10|13:35:55|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03534|2024/08/10|13:36:10|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03535|2024/08/10|13:36:10|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03536|2024/08/10|13:36:10|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18183|2024/08/10|13:36:13|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18184|2024/08/10|13:36:15|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18185|2024/08/10|13:36:15|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18186|2024/08/10|13:36:15|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18187|2024/08/10|13:36:16|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18188|2024/08/10|13:36:20|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18189|2024/08/10|13:36:20|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18190|2024/08/10|13:36:21|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18191|2024/08/10|13:36:23|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18192|2024/08/10|13:36:23|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18193|2024/08/10|13:36:23|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03537|2024/08/10|13:36:24|CSD(CS) |1  |SYSINFO |Automatic Synchronization from DSP 1 (or 1A) has started                      
+03538|2024/08/10|13:36:24|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03539|2024/08/10|13:36:27|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18194|2024/08/10|13:36:28|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18195|2024/08/10|13:36:28|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18196|2024/08/10|13:36:28|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18197|2024/08/10|13:36:28|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/10 13:36:33 to 2024/08/10 13:36:28.                 
+03540|2024/08/10|13:36:33|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03541|2024/08/10|13:36:33|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03542|2024/08/10|13:36:34|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03543|2024/08/10|13:36:45|CSD(CS) |1  |SYSINFO |Automatic Synchronization from RPio M1 has started                            
+03544|2024/08/10|13:36:45|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03545|2024/08/10|13:36:47|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03546|2024/08/10|14:24:27|CSD(CS) |1  |SYSINFO |Started loading file [X 081024 SAT.RIVAGEPM]                                  
+03547|2024/08/10|14:24:46|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03548|2024/08/10|14:24:47|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03549|2024/08/10|14:24:47|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03550|2024/08/10|14:24:51|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03551|2024/08/10|14:24:51|CSD(CS) |1  |SYSINFO |Synchronization by File Load to RPio M1 has started                           
+03552|2024/08/10|14:24:51|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03553|2024/08/10|14:24:51|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03554|2024/08/10|14:24:51|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18198|2024/08/10|14:24:51|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/10 14:24:52 to 2024/08/10 14:24:51.                 
+03555|2024/08/10|14:24:53|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03556|2024/08/10|14:24:53|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03557|2024/08/10|15:26:19|CSD(CS) |1  |CAUTION |Unassigned encoder                                                            
+03558|2024/08/10|17:36:35|CSD(CS) |1  |CAUTION |Same event occurred 8 times                                                   
+03559|2024/08/10|20:09:26|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03560|2024/08/10|20:09:36|CSD(CS) |1  |SYSINFO |Started saving file [X 081024 SAT.RIVAGEPM]                                   
+03561|2024/08/10|20:09:41|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03562|2024/08/10|20:21:08|CSD(CS) |1  |SYSINFO |Started loading file [BS 081124 SUN.RIVAGEPM]                                 
+03563|2024/08/10|20:21:25|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03564|2024/08/10|20:21:25|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03565|2024/08/10|20:21:26|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+18199|2024/08/10|20:21:29|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/10 20:21:28 to 2024/08/10 20:21:29.                 
+03566|2024/08/10|20:21:30|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03567|2024/08/10|20:21:30|CSD(CS) |1  |SYSINFO |Synchronization by File Load to RPio M1 has started                           
+03568|2024/08/10|20:21:30|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03569|2024/08/10|20:21:30|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03570|2024/08/10|20:21:30|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03571|2024/08/10|20:21:32|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03572|2024/08/10|20:21:32|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03573|2024/08/10|20:21:45|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program End                                                      
+03574|2024/08/11|07:41:11|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18200|2024/08/11|07:41:22|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03575|2024/08/11|07:41:25|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03576|2024/08/11|07:41:25|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03577|2024/08/11|07:41:25|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18201|2024/08/11|07:41:24|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18202|2024/08/11|07:41:24|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18203|2024/08/11|07:41:24|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18204|2024/08/11|07:41:25|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18205|2024/08/11|07:41:29|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18206|2024/08/11|07:41:30|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18207|2024/08/11|07:41:30|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18208|2024/08/11|07:41:32|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18209|2024/08/11|07:41:32|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18210|2024/08/11|07:41:32|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03578|2024/08/11|07:41:39|CSD(CS) |1  |SYSINFO |Automatic Synchronization from DSP 1 (or 1A) has started                      
+03579|2024/08/11|07:41:39|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+18211|2024/08/11|07:41:38|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18212|2024/08/11|07:41:38|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18213|2024/08/11|07:41:38|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03580|2024/08/11|07:41:45|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+03581|2024/08/11|07:41:45|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03582|2024/08/11|07:41:45|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18214|2024/08/11|07:41:45|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/11 07:41:46 to 2024/08/11 07:41:45.                 
+03583|2024/08/11|07:41:47|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03584|2024/08/11|07:42:02|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03585|2024/08/11|07:42:29|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03586|2024/08/11|07:45:09|CSD(CS) |1  |CAUTION |Same event occurred 9 times                                                   
+03587|2024/08/11|07:45:17|CSD(CS) |1  |SYSINFO |Synchronization to RPio M1 has started                                        
+03588|2024/08/11|07:45:19|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03589|2024/08/11|07:57:04|CSD(CS) |1  |CAUTION |Unassigned encoder                                                            
+03590|2024/08/11|07:58:10|CSD(CS) |1  |SYSINFO |EQ parameters copied                                                          
+03591|2024/08/11|07:58:14|CSD(CS) |1  |SYSINFO |EQ parameters pasted                                                          
+03592|2024/08/11|08:01:31|CSD(CS) |1  |SYSINFO |Same event occurred 3 times                                                   
+03593|2024/08/11|08:19:55|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03594|2024/08/11|08:20:09|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03595|2024/08/11|08:20:09|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03596|2024/08/11|08:20:09|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+03597|2024/08/11|08:20:11|CSD(CS) |1  |SYSINFO |Automatic Synchronization from RPio M1 has started                            
+03598|2024/08/11|08:20:11|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03599|2024/08/11|08:20:12|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+03600|2024/08/11|08:20:13|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03601|2024/08/11|08:20:13|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03602|2024/08/11|08:20:13|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03603|2024/08/11|08:20:13|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03604|2024/08/11|08:20:13|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03605|2024/08/11|08:20:14|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18215|2024/08/11|08:20:14|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/11 08:20:14 to 2024/08/11 08:20:14.                 
+03606|2024/08/11|09:34:28|CSD(CS) |1  |CAUTION |Unassigned encoder                                                            
+03607|2024/08/11|11:59:59|CSD(CS) |1  |SYSINFO |Started saving file [BS 081124 SUN.RIVAGEPM]                                  
+03608|2024/08/11|12:00:03|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03609|2024/08/11|12:00:46|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program End                                                      
+03610|2024/08/12|10:50:35|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03611|2024/08/12|10:50:48|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03612|2024/08/12|10:50:48|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03613|2024/08/12|10:50:48|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18216|2024/08/12|10:50:51|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18217|2024/08/12|10:50:53|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18218|2024/08/12|10:50:53|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18219|2024/08/12|10:50:53|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18220|2024/08/12|10:50:54|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+18221|2024/08/12|10:50:58|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18222|2024/08/12|10:50:59|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18223|2024/08/12|10:51:00|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18224|2024/08/12|10:51:00|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18225|2024/08/12|10:51:00|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18226|2024/08/12|10:51:00|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03614|2024/08/12|10:51:02|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03615|2024/08/12|10:51:03|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+03616|2024/08/12|10:51:05|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03617|2024/08/12|10:51:05|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18227|2024/08/12|10:51:06|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18228|2024/08/12|10:51:06|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18229|2024/08/12|10:51:06|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03618|2024/08/12|10:51:09|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03619|2024/08/12|10:51:13|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18230|2024/08/12|10:51:13|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 10:51:19 to 2024/08/12 10:51:13.                 
+03620|2024/08/12|10:51:25|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03621|2024/08/12|10:51:26|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03622|2024/08/12|10:51:29|CSD(CS) |1  |SYSINFO |Synchronization from RPio M1 has started                                      
+03623|2024/08/12|10:51:31|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03624|2024/08/12|10:51:45|CSD(CS) |1  |SYSINFO |Started loading file [ROGERS DFLT 0724.RIVAGEPM]                              
+03625|2024/08/12|10:52:02|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03626|2024/08/12|10:52:03|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03627|2024/08/12|10:52:03|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03628|2024/08/12|10:52:07|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03629|2024/08/12|10:52:07|CSD(CS) |1  |SYSINFO |Synchronization by File Load to RPio M1 has started                           
+03630|2024/08/12|10:52:07|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03631|2024/08/12|10:52:07|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+18231|2024/08/12|10:52:07|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 10:52:07 to 2024/08/12 10:52:07.                 
+03632|2024/08/12|10:52:08|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03633|2024/08/12|10:52:10|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03634|2024/08/12|10:52:10|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03635|2024/08/12|10:53:27|CSD(CS) |1  |SYSINFO |Started saving file [TP 081624 CR.RIVAGEPM]                                   
+03636|2024/08/12|10:53:32|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03637|2024/08/12|11:07:22|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03638|2024/08/12|11:07:36|CSD(CS) |1  |SYSINFO |Started saving file [TP 081624 CR.RIVAGEPM]                                   
+03639|2024/08/12|11:07:41|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03640|2024/08/12|11:08:13|CSD(CS) |1  |SYSINFO |Started loading file [ROGERS DFLT 0724.RIVAGEPM]                              
+03641|2024/08/12|11:08:31|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03642|2024/08/12|11:08:32|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03643|2024/08/12|11:08:33|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03644|2024/08/12|11:08:37|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03645|2024/08/12|11:08:37|CSD(CS) |1  |SYSINFO |Synchronization by File Load to RPio M1 has started                           
+03646|2024/08/12|11:08:37|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03647|2024/08/12|11:08:37|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03648|2024/08/12|11:08:37|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18232|2024/08/12|11:08:36|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 11:08:36 to 2024/08/12 11:08:36.                 
+03649|2024/08/12|11:08:39|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03650|2024/08/12|11:08:39|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03651|2024/08/12|11:08:56|CSD(CS) |1  |SYSINFO |Started saving file [CG 081724 SAT.RIVAGEPM]                                  
+03652|2024/08/12|11:09:00|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03653|2024/08/12|11:10:53|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03654|2024/08/12|11:11:07|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03655|2024/08/12|11:11:07|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03656|2024/08/12|11:11:07|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+03657|2024/08/12|11:11:09|CSD(CS) |1  |SYSINFO |Automatic Synchronization from RPio M1 has started                            
+03658|2024/08/12|11:11:09|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03659|2024/08/12|11:11:09|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+03660|2024/08/12|11:11:11|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03661|2024/08/12|11:11:11|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03662|2024/08/12|11:11:11|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03663|2024/08/12|11:11:11|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03664|2024/08/12|11:11:11|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03665|2024/08/12|11:11:11|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18233|2024/08/12|11:11:11|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 11:11:10 to 2024/08/12 11:11:11.                 
+03666|2024/08/12|11:14:41|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18234|2024/08/12|11:14:50|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18235|2024/08/12|11:14:51|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18236|2024/08/12|11:14:51|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18237|2024/08/12|11:14:51|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18238|2024/08/12|11:14:52|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+03667|2024/08/12|11:14:56|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03668|2024/08/12|11:14:56|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03669|2024/08/12|11:14:56|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18239|2024/08/12|11:14:57|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18240|2024/08/12|11:14:57|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18241|2024/08/12|11:14:58|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18242|2024/08/12|11:14:58|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18243|2024/08/12|11:14:58|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18244|2024/08/12|11:14:58|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18245|2024/08/12|11:15:05|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18246|2024/08/12|11:15:05|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18247|2024/08/12|11:15:05|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03670|2024/08/12|11:15:09|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03671|2024/08/12|11:15:09|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+03672|2024/08/12|11:15:11|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03673|2024/08/12|11:15:11|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03674|2024/08/12|11:15:14|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03675|2024/08/12|11:15:18|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18248|2024/08/12|11:15:18|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 11:15:17 to 2024/08/12 11:15:18.                 
+03676|2024/08/12|11:15:30|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03677|2024/08/12|11:15:31|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03678|2024/08/12|11:17:31|CSD(CS) |1  |CAUTION |Same event occurred 7 times                                                   
+03679|2024/08/12|11:18:24|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03680|2024/08/12|11:18:39|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03681|2024/08/12|11:18:39|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03682|2024/08/12|11:18:39|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+03683|2024/08/12|11:18:41|CSD(CS) |1  |SYSINFO |Automatic Synchronization from DSP 1 (or 1A) has started                      
+03684|2024/08/12|11:18:41|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03685|2024/08/12|11:18:43|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03686|2024/08/12|11:18:43|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03687|2024/08/12|11:18:43|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03688|2024/08/12|11:18:43|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03689|2024/08/12|11:18:43|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18249|2024/08/12|11:18:43|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 11:18:43 to 2024/08/12 11:18:43.                 
+03690|2024/08/12|11:19:15|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03691|2024/08/12|11:23:15|CSD(CS) |1  |CAUTION |Same event occurred 13 times                                                  
+03692|2024/08/12|13:57:11|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18250|2024/08/12|13:57:18|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18251|2024/08/12|13:57:20|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18252|2024/08/12|13:57:20|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18253|2024/08/12|13:57:20|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18254|2024/08/12|13:57:21|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+03693|2024/08/12|13:57:25|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03694|2024/08/12|13:57:25|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03695|2024/08/12|13:57:25|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18255|2024/08/12|13:57:25|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18256|2024/08/12|13:57:25|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18257|2024/08/12|13:57:26|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18258|2024/08/12|13:57:28|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18259|2024/08/12|13:57:28|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18260|2024/08/12|13:57:28|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18261|2024/08/12|13:57:33|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18262|2024/08/12|13:57:33|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18263|2024/08/12|13:57:33|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03696|2024/08/12|13:57:42|CSD(CS) |1  |SYSINFO |Automatic Synchronization from DSP 1 (or 1A) has started                      
+03697|2024/08/12|13:57:42|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03698|2024/08/12|13:57:42|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03699|2024/08/12|13:57:42|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03700|2024/08/12|13:57:43|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03701|2024/08/12|13:57:45|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18264|2024/08/12|13:57:45|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 13:57:45 to 2024/08/12 13:57:45.                 
+03702|2024/08/12|13:57:56|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03703|2024/08/12|13:58:19|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03704|2024/08/12|13:58:39|CSD(CS) |1  |CAUTION |Same event occurred 2 times                                                   
+03705|2024/08/12|13:58:40|CSD(CS) |1  |SYSINFO |Synchronization from RPio M1 has started                                      
+03706|2024/08/12|13:58:42|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03707|2024/08/12|14:04:42|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03708|2024/08/12|14:04:58|CSD(CS) |1  |SYSINFO |Started saving file [CG 081724 SAT.RIVAGEPM]                                  
+03709|2024/08/12|14:05:03|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03710|2024/08/12|14:05:47|CSD(CS) |1  |SYSINFO |Started saving file [CG 081724 SAT.RIVAGEPM]                                  
+03711|2024/08/12|14:05:52|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03712|2024/08/12|14:06:10|CSD(CS) |1  |SYSINFO |Started loading file [ROGERS DFLT 0724.RIVAGEPM]                              
+03713|2024/08/12|14:06:27|CSD(CS) |1  |SYSINFO |Finished loading file                                                         
+03714|2024/08/12|14:06:28|CSD(CS) |1  |SYSINFO |Synchronization by File Load to DSP 1 (or 1A) has started                     
+03715|2024/08/12|14:06:29|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03716|2024/08/12|14:06:32|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to DSP 1 (or 1A) has finished               
+03717|2024/08/12|14:06:32|CSD(CS) |1  |SYSINFO |Synchronization by File Load to RPio M1 has started                           
+03718|2024/08/12|14:06:32|CSD(CS) |1  |SYSINFO |Synchronization by File Load to CS1 I/O has started                           
+03719|2024/08/12|14:06:32|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03720|2024/08/12|14:06:32|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+18265|2024/08/12|14:06:32|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 14:06:31 to 2024/08/12 14:06:32.                 
+03721|2024/08/12|14:06:35|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to RPio M1 has finished                     
+03722|2024/08/12|14:06:35|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization to CS1 I/O has finished                     
+03723|2024/08/12|14:13:34|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03724|2024/08/12|14:13:50|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03725|2024/08/12|14:13:50|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03726|2024/08/12|14:13:50|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+03727|2024/08/12|14:13:52|CSD(CS) |1  |SYSINFO |Automatic Synchronization from RPio M1 has started                            
+03728|2024/08/12|14:13:52|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03729|2024/08/12|14:13:53|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03730|2024/08/12|14:13:53|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03731|2024/08/12|14:13:53|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03732|2024/08/12|14:13:53|CSD(CS) |1  |SYSINFO |Synchronization from DSP 1 (or 1A) has started                                
+03733|2024/08/12|14:13:54|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03734|2024/08/12|14:13:54|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03735|2024/08/12|14:13:55|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18266|2024/08/12|14:13:55|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 14:13:54 to 2024/08/12 14:13:55.                 
+03736|2024/08/12|14:30:29|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18267|2024/08/12|14:30:38|CSD(DSP)|1A |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+18268|2024/08/12|14:30:39|CSD(DSP)|1A |SYSINFO |Power State : A-[On], B-[On]                                                  
+18269|2024/08/12|14:30:39|CSD(DSP)|1A |SYSINFO |Cooling Fan State : [Fine]                                                    
+18270|2024/08/12|14:30:39|CSD(DSP)|1A |SYSINFO |Battery Fine                                                                  
+18271|2024/08/12|14:30:40|CSD(DSP)|1A |SYSINFO |CN  Network building(1,1,0)                                                   
+03737|2024/08/12|14:30:42|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03738|2024/08/12|14:30:42|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03739|2024/08/12|14:30:42|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+18272|2024/08/12|14:30:44|CSD(DSP)|1A |SYSINFO |Same event occurred 2 times                                                   
+18273|2024/08/12|14:30:45|CSD(DSP)|1A |SYSINFO |TL  Network building(0,1,0)                                                   
+18274|2024/08/12|14:30:46|CSD(DSP)|1A |SYSINFO |WordClock Lock                                                                
+18275|2024/08/12|14:30:46|CSD(I/O)|L1 |SYSINFO |Power State : A-[On]                                                          
+18276|2024/08/12|14:30:46|CSD(I/O)|L1 |SYSINFO |Power State : B-[On]                                                          
+18277|2024/08/12|14:30:46|CSD(I/O)|L1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+18278|2024/08/12|14:30:53|RPio    |M1 |SYSINFO |Power State : A-[On]                                                          
+18279|2024/08/12|14:30:53|RPio    |M1 |SYSINFO |Power State : B-[On]                                                          
+18280|2024/08/12|14:30:53|RPio    |M1 |SYSINFO |Cooling Fan State : [Fine]                                                    
+03740|2024/08/12|14:30:56|CSD(CS) |1  |SYSINFO |Automatic Synchronization from DSP 1 (or 1A) has started                      
+03741|2024/08/12|14:30:56|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03742|2024/08/12|14:31:02|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03743|2024/08/12|14:31:02|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03744|2024/08/12|14:31:02|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+03745|2024/08/12|14:31:03|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+18281|2024/08/12|14:31:02|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 14:31:01 to 2024/08/12 14:31:02.                 
+03746|2024/08/12|14:31:16|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03747|2024/08/12|14:31:16|CSD(CS) |1  |CAUTION |DEVICE NOT SYNCED!                                                            
+03748|2024/08/12|14:32:16|CSD(CS) |1  |CAUTION |Same event occurred 4 times                                                   
+03749|2024/08/12|14:32:33|CSD(CS) |1  |SYSINFO |Synchronization from RPio M1 has started                                      
+03750|2024/08/12|14:32:35|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03751|2024/08/12|14:33:02|CSD(CS) |1  |SYSINFO |Scene 1.00 updated                                                            
+03752|2024/08/12|14:33:25|CSD(CS) |1  |SYSINFO |Started saving file [BS 081124 SUN.RIVAGEPM]                                  
+03753|2024/08/12|14:33:30|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03754|2024/08/12|14:34:17|CSD(CS) |1  |SYSINFO |Started saving file [BS 081824 SUN.RIVAGEPM]                                  
+03755|2024/08/12|14:34:21|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03756|2024/08/12|14:35:29|CSD(CS) |1  |SYSINFO |Started saving file [BS 081824 SUN.RIVAGEPM]                                  
+03757|2024/08/12|14:35:33|CSD(CS) |1  |SYSINFO |Finished saving file                                                          
+03758|2024/08/12|15:18:57|CSD(CS) |1  |SYSINFO |CSD-R7 V6.60 Program Start  (Unit Mode: Default)                              
+03759|2024/08/12|15:19:12|CSD(CS) |1  |SYSINFO |Power State CS A : [Fine]                                                     
+03760|2024/08/12|15:19:12|CSD(CS) |1  |SYSINFO |Power State CS B : [Fine]                                                     
+03761|2024/08/12|15:19:12|CSD(CS) |1  |SYSINFO |Cooling Fan State : [Fine]                                                    
+03762|2024/08/12|15:19:14|CSD(CS) |1  |SYSINFO |Automatic Synchronization from DSP 1 (or 1A) has started                      
+03763|2024/08/12|15:19:14|CSD(CS) |1  |SYSINFO |Automatic Synchronization from RPio M1 has started                            
+03764|2024/08/12|15:19:14|CSD(CS) |1  |SYSINFO |Automatic Synchronization from CS1 I/O has started                            
+03765|2024/08/12|15:19:16|CSD(CS) |1  |SYSINFO |DSP connected                                                                 
+03766|2024/08/12|15:19:16|CSD(CS) |1  |SYSINFO |I/O Unit [M1] connected                                                       
+03767|2024/08/12|15:19:16|CSD(CS) |1  |SYSINFO |I/O Unit [CS1] connected                                                      
+03768|2024/08/12|15:19:16|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from RPio M1 has finished                   
+03769|2024/08/12|15:19:16|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from CS1 I/O has finished                   
+03770|2024/08/12|15:19:17|CSD(CS) |1  |SYSINFO |Current Parameter Synchronization from DSP 1 (or 1A) has finished             
+18282|2024/08/12|15:19:17|CSD(DSP)|1A |SYSINFO |Date/Time updated 2024/08/12 15:19:16 to 2024/08/12 15:19:17.                 
+03771|2024/08/12|15:23:37|CSD(CS) |1  |SYSINFO |Started saving file [project.RIVAGEPM]                                        
+03772|2024/08/12|15:23:40|CSD(CS) |1  |SYSINFO |Screen captured                                                               
